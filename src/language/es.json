@@ -1,0 +1,54 @@
+{
+    "home": "Inicio",
+    "about": "Sobre mi",
+    "services": "Servicios",
+    "contact": "Contactos",
+
+    
+    "games": "juegos",
+
+
+    "greeting": "Hola",
+    "name": "Soy Abiboe",
+    
+
+    
+    "im": "Quien soy",
+    "description": "Mi nombre es Abiboe",
+    "my-description": "Me dedico desde hace 2 años al diseño y desarrollo web, estoy en constante aprendizaje de las tecnologías que ya domino, asimismo busco aprender nuevas tecnologías para enriquecer mis habilidades y mejorar mis buenas prácticas como desarrollador.",
+    "years": "Edad: ",
+    "from": "Desde: ",
+    "btn-know-more": "Saber más",
+    "tools": "Herramientas",
+    "hi_im": "Hola, soy Abiboe",
+    "hob": "Aficiones",
+
+
+
+    "Security": "Auditoría y Consultoría de Seguridad",
+    "design-info": "Proporcionar una evaluación de seguridad detallada para interfaces web y móviles para identificar vulnerabilidades y sugerir mejoras.",
+    "development": "Desarrollo WEB",
+    "development-info": "Creación de páginas web bien estructuradas, con un diseño responsivo de calidad, paleta de colores atractiva, e interacciones que brindan satisfacción al usuario al navegar por el sitio web.",
+    "marketing": "Pruebas de Penetración",
+    "marketing-info": "Simular ataques cibernéticos en sitios web o aplicaciones para probar la seguridad del sistema e identificar cualquier vulnerabilidad potencial.",
+   
+    
+    
+
+    "btn-more-projects": "Más proyectos",
+
+
+    "contact-info": "Contactame por: ",
+
+
+    "footer-info": "Pagina creada por Abiboe",
+
+    
+    "about-info-1": "Hola, soy Abiboe, estudiante en la Universidad de Northumbria en Londres; Con un profundo entendimiento de los sistemas y un talento para resolver problemas, encontré mi vocación.",
+    "about-info-2": "El arte del hacking va más allá de la mera intrusión; se trata de superar medidas de seguridad complejas y empujar constantemente los límites de lo que es posible en la ciberseguridad. Cada día presenta un nuevo rompecabezas, un sistema para entender, un código para descifrar o un firewall para examinar. Este viaje continuo a través del intrincado paisaje de redes y códigos sigue alimentando mi pasión por el oficio del hacking.",
+    "about-info-3": "Me considero una persona autodidacta ya que me gusta estar aprendiendo constantemente día tras día, tanto nuevas tecnologías como nuevos métodos de desarrollo que me ayudan a pulir y elevar mi nivel de aprendizaje.",
+    "btn-cv": "Descargar CV"
+   
+
+
+}

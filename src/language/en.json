@@ -1,0 +1,59 @@
+{
+    "home": "Home",
+    "about": "About me",
+    "services": "Services",
+    "contact": "Contact",
+
+
+    "games": "games",
+
+
+    "greeting": "Hello",
+    "name": "I am Abiboe",
+  
+
+
+    "im": "who I am",
+    "description": "My name is Abiboe.",
+    "years": "Age: ",
+    "from": "From: ",
+    "btn-know-more": "Read more",
+    "tools": "Tools",
+    "hob":"Hobbies",
+
+    "hi_im": "Hi, I'm Abiboe",
+
+
+    "Security": "Security Audit and Consulting",
+    "design-info": "Provide a detailed security assessment for web and mobile interfaces to identify vulnerabilities and suggest improvements.",
+    "development": "Web development",
+    "development-info": "Creation of well-structured web pages, good responsive design, attractive color palette, with interactions that give the user satisfaction when browsing the website.",
+    "marketing": "Penetration Testing",
+    "marketing-info": "Simulate cyber attacks on websites or applications to test the security of the system and identify any potential vulnerabilities.",
+    "design": "Skills",
+    "maintenance": "Web maintenance",
+    "maintenance-info": "Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.",
+    "seo": "Web positioning (SEO)",
+    "seo-info": "Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines",
+    "optimization": "Website optimization",
+    "optimization-info": "Complete optimization of your web page, improving loading speed, using optimized images, a good URL, to give a better experience to users who visit the website",
+
+
+
+
+    "contact-info": "Contact me by: ",
+
+
+    "footer-info": "Page created by Abiboe",
+
+
+    "about-info-1": "Hi, I'm Abiboe, a student at the Northumbria University London; With a deep understanding of systems and a knack for problem-solving, I found my calling.",
+    "about-info-2": "The art of hacking goes beyond mere intrusion; it's about outthinking complex security measures and consistently pushing the boundaries of what's possible in cybersecurity. Every day presents a new puzzle, a system to understand, a code to decrypt, or a firewall to examine. This ongoing journey through the intricate landscape of networks and codes continues to fuel my passion for the craft of hacking",
+    "about-info-3": "I consider myself a self-taught person since I like to be constantly learning day by day, both new technologies and new development methods that help me polish and raise my level of learning.",
+    "btn-cv": "Download CV"
+  
+
+
+
+
+}
