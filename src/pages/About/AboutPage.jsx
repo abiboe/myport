@@ -142,6 +142,10 @@ const About = () => {
                 <img alt="Nikto" className="skills-img" src="https://raw.githubusercontent.com/abiboe/proj/main/nikto-logo.svg" title="Nikto" />
                 <h2 className="skill-name">Nikto</h2>
               </div>
+              <div className="skill-card" data-aos="flip-up" data-aos-delay="300">
+                <img alt="Firebase" className="skills-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" title="firebase" />
+                <h2 className="skill-name">Firebase</h2>
+              </div>
             </div>
           </div>
         </section>
